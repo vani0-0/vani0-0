@@ -78,7 +78,11 @@ Software engineer by day, pixel artist by night, destined to craft the next epic
 
 #
 
-<img src="https://raw.githubusercontent.com/vani0-0/vani0-0/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vani0-0/vani0-0/output/snake.svg" alt="Snake animation" />
+</picture>
 
 #
 
