@@ -22,12 +22,8 @@ Software engineer by day, pixel artist by night, <br>destined to craft the next 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vandev2) 
 
-  #
   
   <img src="https://raw.githubusercontent.com/vani0-0/vani0-0/output/snake.svg" alt="Snake animation" />
-  
-  #
-
   
 ---
 [![](https://visitcount.itsvg.in/api?id=vani0-0&icon=6&color=9)](https://visitcount.itsvg.in)
