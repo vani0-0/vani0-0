@@ -16,14 +16,8 @@ Software engineer by day, pixel artist by night, <br>destined to craft the next 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vani0-0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vani0-0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=vani0-0&icon=6&color=9)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vandev2) 
@@ -33,4 +27,9 @@ Software engineer by day, pixel artist by night, <br>destined to craft the next 
   <img src="https://raw.githubusercontent.com/vani0-0/vani0-0/output/snake.svg" alt="Snake animation" />
   
   #
+
+  
+---
+[![](https://visitcount.itsvg.in/api?id=vani0-0&icon=6&color=9)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
