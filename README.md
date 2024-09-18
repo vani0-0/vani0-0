@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer by day, pixel artist by night, <br>destined to craft the next epic 2D game! 🎮 <br>From hobbyist coder to career crusader, <br>on a mission to blend pixels and code seamlessly. <br>🌟 Let's turn dreams into digital realities, one line of code at a time!<br><br>// That is ChatGPT-generated, BTW.<br>// Currently, a Jr. Programmer Trainee: TrueBPO. 
+Software engineer by day, pixel artist by night, <br>destined to craft the next epic 2D game! 🎮 <br>From hobbyist coder to career crusader, <br>on a mission to blend pixels and code seamlessly. <br>🌟 Let's turn dreams into digital realities, one line of code at a time!<br><br>// That is ChatGPT-generated, BTW.<br>// Currently, a Jr. Programmer @TrueBPO. 
 
 
 ## 🌐 Socials:
@@ -71,9 +71,10 @@ Software engineer by day, pixel artist by night, <br>destined to craft the next 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vani0-0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vani0-0&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vani0-0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vani0-0&theme=blue_navy&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vani0-0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -82,11 +83,10 @@ Software engineer by day, pixel artist by night, <br>destined to craft the next 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vani0-0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vandev2) 
-
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vandev2) 
   
-  <img src="https://raw.githubusercontent.com/vani0-0/vani0-0/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vani0-0/vani0-0/output/snake.svg" alt="Snake animation" />
   
 ---
 [![](https://visitcount.itsvg.in/api?id=vani0-0&icon=6&color=9)](https://visitcount.itsvg.in)
